@@ -1,0 +1,10 @@
+File: sample_scanned.pdf
+Pages: 1
+Engines: pdftotext (primary) + pdfplumber (cross-check)
+
+page  words_A  words_B similarity  status
+   1      103        0      0.000  OCR
+
+Total words: 103
+Pages flagged for review: 0
+Output: sample_scanned.txt

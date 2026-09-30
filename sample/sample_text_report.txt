@@ -1,0 +1,12 @@
+File: sample_text.pdf
+Pages: 3
+Engines: pdftotext (primary) + pdfplumber (cross-check)
+
+page  words_A  words_B similarity  status
+   1      103      103      1.000  OK
+   2      102      102      1.000  OK
+   3       91       91      1.000  OK
+
+Total words: 296
+Pages flagged for review: 0
+Output: sample_text.txt
